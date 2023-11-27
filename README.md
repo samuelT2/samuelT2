@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Sorry, most of my work is done in private repos... Hope that changes one day 😄
+
 <!--
 **samuelT2/samuelT2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
